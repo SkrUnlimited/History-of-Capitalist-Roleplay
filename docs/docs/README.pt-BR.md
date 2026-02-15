@@ -3,7 +3,7 @@
 ## 🏙️ ROLEPLAY CAPITALISTA
 ### Registro Histórico Oficial
 
-[🇺🇸 Read in English](README.en.md)
+[🇺🇸 Read in English](docs/README.en.md)
 
 ---
 
