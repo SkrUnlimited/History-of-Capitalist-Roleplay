@@ -1,6 +1,6 @@
 # Top
 
-# 🏙️ ROLEPLAY CAPITALISTA
+## 🏙️ ROLEPLAY CAPITALISTA
 ### Official Historical Record
 
 [🇧🇷 Ler em Português](README.pt-BR.md)
