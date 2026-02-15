@@ -110,4 +110,4 @@ CEO — Roleplay Capitalista
 
 ---
 
-⬆️ [Voltar ao topo](#-roleplay-capitalista)
+⬆️ [Voltar ao topo](#roleplay-capitalista)
