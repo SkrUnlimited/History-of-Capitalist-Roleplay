@@ -1,4 +1,4 @@
-<a id="top"></a>
+# Top
 
 # 🏙️ ROLEPLAY CAPITALISTA
 ### Registro Histórico Oficial
@@ -112,4 +112,4 @@ CEO — Roleplay Capitalista
 
 ---
 
-⬆️ [Voltar ao topo](#roleplay-capitalista)
+⬆️ [Voltar ao topo](#top)
