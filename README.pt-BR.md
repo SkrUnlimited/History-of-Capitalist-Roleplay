@@ -1,6 +1,6 @@
 # História:
 
-# 🏙️ ROLEPLAY CAPITALISTA
+## 🏙️ ROLEPLAY CAPITALISTA
 ### Registro Histórico Oficial
 
 [🇺🇸 Read in English](README.en.md)
